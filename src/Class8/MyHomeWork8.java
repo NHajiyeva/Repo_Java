@@ -40,11 +40,9 @@ public class MyHomeWork8 {
         }
 
 
-
-
-
+        }
     }
-}
+
 
 
 
